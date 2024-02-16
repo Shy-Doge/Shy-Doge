@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Shy-Doge
-- 👀 I’m interested in Programing and video-games
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Programing and video-games.
+- 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord Shy_Doge#6959
+- 📫 How to reach me: Discord Shy_Doge
 
-Support my here:
+Support me here:
 https://www.buymeacoffee.com/ShyDoge
 
 <!---

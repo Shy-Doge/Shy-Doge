@@ -99,6 +99,10 @@
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shy_doge) 
 
+
+# 🛠️ Commit History:
+
+![snake gif](https://github.com/Shy-Doge/Shy-Doge/blob/output/github-snake-dark.svg)
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

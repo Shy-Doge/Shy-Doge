@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
 </p>
+
 # 💫 About Me:
 🔭 I’m currently working on nothing.<br>👯 I’m looking to collaborate on game modding.<br>🌱 I’m currently learning cybersecurity.
 
